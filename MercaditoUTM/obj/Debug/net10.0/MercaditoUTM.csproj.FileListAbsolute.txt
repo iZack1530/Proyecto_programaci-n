@@ -12,3 +12,4 @@ C:\Programacion\MercaditoUTM\MercaditoUTM\obj\Debug\net10.0\refint\MercaditoUTM.
 C:\Programacion\MercaditoUTM\MercaditoUTM\obj\Debug\net10.0\MercaditoUTM.pdb
 C:\Programacion\MercaditoUTM\MercaditoUTM\obj\Debug\net10.0\MercaditoUTM.genruntimeconfig.cache
 C:\Programacion\MercaditoUTM\MercaditoUTM\obj\Debug\net10.0\ref\MercaditoUTM.dll
+C:\Programacion\MercaditoUTM\MercaditoUTM\obj\Debug\net10.0\MercaditoUTM.sourcelink.json
