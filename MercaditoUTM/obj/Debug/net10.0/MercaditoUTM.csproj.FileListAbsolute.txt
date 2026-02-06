@@ -1,0 +1,14 @@
+C:\Programacion\MercaditoUTM\MercaditoUTM\bin\Debug\net10.0\MercaditoUTM.exe
+C:\Programacion\MercaditoUTM\MercaditoUTM\bin\Debug\net10.0\MercaditoUTM.deps.json
+C:\Programacion\MercaditoUTM\MercaditoUTM\bin\Debug\net10.0\MercaditoUTM.runtimeconfig.json
+C:\Programacion\MercaditoUTM\MercaditoUTM\bin\Debug\net10.0\MercaditoUTM.dll
+C:\Programacion\MercaditoUTM\MercaditoUTM\bin\Debug\net10.0\MercaditoUTM.pdb
+C:\Programacion\MercaditoUTM\MercaditoUTM\obj\Debug\net10.0\MercaditoUTM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\MercaditoUTM\MercaditoUTM\obj\Debug\net10.0\MercaditoUTM.AssemblyInfoInputs.cache
+C:\Programacion\MercaditoUTM\MercaditoUTM\obj\Debug\net10.0\MercaditoUTM.AssemblyInfo.cs
+C:\Programacion\MercaditoUTM\MercaditoUTM\obj\Debug\net10.0\MercaditoUTM.csproj.CoreCompileInputs.cache
+C:\Programacion\MercaditoUTM\MercaditoUTM\obj\Debug\net10.0\MercaditoUTM.dll
+C:\Programacion\MercaditoUTM\MercaditoUTM\obj\Debug\net10.0\refint\MercaditoUTM.dll
+C:\Programacion\MercaditoUTM\MercaditoUTM\obj\Debug\net10.0\MercaditoUTM.pdb
+C:\Programacion\MercaditoUTM\MercaditoUTM\obj\Debug\net10.0\MercaditoUTM.genruntimeconfig.cache
+C:\Programacion\MercaditoUTM\MercaditoUTM\obj\Debug\net10.0\ref\MercaditoUTM.dll
