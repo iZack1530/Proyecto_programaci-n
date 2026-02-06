@@ -1,0 +1,15 @@
+C:\Programacion\BibliotecaUTM\bin\Debug\net10.0\BibliotecaUTM.exe
+C:\Programacion\BibliotecaUTM\bin\Debug\net10.0\BibliotecaUTM.deps.json
+C:\Programacion\BibliotecaUTM\bin\Debug\net10.0\BibliotecaUTM.runtimeconfig.json
+C:\Programacion\BibliotecaUTM\bin\Debug\net10.0\BibliotecaUTM.dll
+C:\Programacion\BibliotecaUTM\bin\Debug\net10.0\BibliotecaUTM.pdb
+C:\Programacion\BibliotecaUTM\obj\Debug\net10.0\BibliotecaUTM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\BibliotecaUTM\obj\Debug\net10.0\BibliotecaUTM.AssemblyInfoInputs.cache
+C:\Programacion\BibliotecaUTM\obj\Debug\net10.0\BibliotecaUTM.AssemblyInfo.cs
+C:\Programacion\BibliotecaUTM\obj\Debug\net10.0\BibliotecaUTM.csproj.CoreCompileInputs.cache
+C:\Programacion\BibliotecaUTM\obj\Debug\net10.0\BibliotecaUTM.sourcelink.json
+C:\Programacion\BibliotecaUTM\obj\Debug\net10.0\BibliotecaUTM.dll
+C:\Programacion\BibliotecaUTM\obj\Debug\net10.0\refint\BibliotecaUTM.dll
+C:\Programacion\BibliotecaUTM\obj\Debug\net10.0\BibliotecaUTM.pdb
+C:\Programacion\BibliotecaUTM\obj\Debug\net10.0\BibliotecaUTM.genruntimeconfig.cache
+C:\Programacion\BibliotecaUTM\obj\Debug\net10.0\ref\BibliotecaUTM.dll
