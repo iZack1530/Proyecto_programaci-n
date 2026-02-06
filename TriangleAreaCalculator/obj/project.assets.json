@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programacion\\TriangleAreaCalculator\\TriangleAreaCalculator.csproj",
-      "projectName": "TriangleAreaCalculator",
-      "projectPath": "C:\\Programacion\\TriangleAreaCalculator\\TriangleAreaCalculator.csproj",
+      "projectUniqueName": "C:\\Programacion\\TriangleAreaCalculator\\AreaCalculator.csproj",
+      "projectName": "AreaCalculator",
+      "projectPath": "C:\\Programacion\\TriangleAreaCalculator\\AreaCalculator.csproj",
       "packagesPath": "C:\\Users\\isaac\\.nuget\\packages\\",
       "outputPath": "C:\\Programacion\\TriangleAreaCalculator\\obj\\",
       "projectStyle": "PackageReference",
